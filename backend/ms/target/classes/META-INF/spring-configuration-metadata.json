@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "token.converter",
+      "type": "kz.yandex_practicum.sprint8.ms.TokenConverterProperties",
+      "sourceType": "kz.yandex_practicum.sprint8.ms.TokenConverterProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "token.converter.resource-id",
+      "type": "java.lang.String",
+      "sourceType": "kz.yandex_practicum.sprint8.ms.TokenConverterProperties"
+    }
+  ],
+  "hints": []
+}
